@@ -1,0 +1,14 @@
+# vim
+*.*~
+compile_commands.json
+.project
+build/
+.tags
+Session.vim
+.peru/
+import/
+*_prof
+CMakeLists.txt.user*
+profile.log
+.clangd/
+.vscode/

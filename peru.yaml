@@ -1,0 +1,18 @@
+imports:
+    catch: import/catch
+    kissfft: import/kissfft    
+    ffts: import/ffts    
+
+curl module catch:
+    url: https://github.com/catchorg/Catch2/releases/download/v2.9.1/catch.hpp 
+
+git module kissfft:
+    url: https://github.com/bazaar-projects/kissfft.git
+    reup: master
+    rev: d74fd2adaffdf4489441a12e0258423b9f5b8e12
+
+git module ffts:
+    url: https://github.com/linkotec/ffts.git
+    reup: master
+    rev: 8e3dee08b1d156a779050c288e9016fadbb0f369
+
