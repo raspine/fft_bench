@@ -37,6 +37,7 @@ set(MY_HEADER_FILES
 
 set(MY_TEST_SOURCES
 	${MY_TEST_DIR}/BenchFft.cpp
+	${MY_TEST_DIR}/TestFft.cpp
 	)
 
 if(MSVC)
